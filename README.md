@@ -7,4 +7,4 @@
 - **Comisión:** 11   
 
 ## 📂 Enlaces Trabajos Practicos
-- TP1: [Enlace](https://drive.google.com/file/d/1AQGA1ZJOmn87v0jqNkqXGEHGosoJW5iZ/view?usp=sharing)
+- TP1: [Introducción a Java](https://drive.google.com/file/d/1AQGA1ZJOmn87v0jqNkqXGEHGosoJW5iZ/view?usp=sharing)
