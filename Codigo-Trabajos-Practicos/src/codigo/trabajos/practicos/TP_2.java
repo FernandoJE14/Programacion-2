@@ -121,7 +121,7 @@ public class TP_2 {
             }            
         }
         System.out.println("Positivos: "+ positivos);
-        System.out.println("Negativos: "+ negativos);
+        System.out.println("Negativos: "+ negativos + "\n");
         System.out.println("Ceros: "+ ceros);*/
         
         //////////////////////////////////////////////////////////
