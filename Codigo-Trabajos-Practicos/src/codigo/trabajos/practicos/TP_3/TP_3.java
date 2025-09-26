@@ -79,7 +79,7 @@ public class TP_3 {
        
        // 5)
        
-       NaveEspacial n = new NaveEspacial();
+       /*NaveEspacial n = new NaveEspacial();
        n.nombre = "Nave";
        n.combustible = 50;
        
@@ -97,7 +97,7 @@ public class TP_3 {
        n.recargarCombustible(50);
        n.avanzar(100);
        n.avanzar(25);
-       n.mostrarEstado();
+       n.mostrarEstado();*/
     }
 
 }
